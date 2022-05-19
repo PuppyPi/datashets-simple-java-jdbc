@@ -1,2 +1,2 @@
 # datashets-java-jdbc
-A connector for Datashets to SQL Tables (in Java)
+A connector for SimpleDatashets to SQL Tables (in Java)
